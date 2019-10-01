@@ -10,6 +10,7 @@ return [
         // ...,
     'paySystem' => [ 
         'class' => PaySytem::class, 
+        'system' => WalletOne::class,
         'key' => '1234', 
         'merchantId' =>'test', 
         'successUrl' => 'test.com/successs'
