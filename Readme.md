@@ -1,4 +1,4 @@
-Yii2 .
+Yii2- компонент платежки. Пока что есть только WalletOne
 
 Установка: composer require "linnoxlewis/yii2-pay-system"
 
